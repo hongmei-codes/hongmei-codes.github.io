@@ -1,24 +1,13 @@
-# hongmei-codes.github.io
+# `v2`
 
-## Project setup
-```
+## Get Started 🚀
+```shell
+# install dependencies
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+# start local development server
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
+# linting
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
