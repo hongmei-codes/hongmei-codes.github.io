@@ -1,0 +1,57 @@
+export default [
+  {
+    skill_category: "Programming",
+    skill_icon: "",
+    skill_list: [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Sass",
+      "SQL",
+      "Shell",
+    ],
+  },
+  {
+    skill_category: "Libraries",
+    skill_icon: "",
+    skill_list: [
+      "React.js",
+      "Next.js",
+      "Vue.js",
+      "Flask",
+      "Django",
+      "jQuery",
+      "Tailwind CSS",
+      "Material UI",
+    ],
+  },
+  {
+    skill_category: "Tools",
+    skill_icon: "",
+    skill_list: [
+      "Bash/Zsh",
+      "Git and Github",
+      "Postman",
+      "DevTools",
+      "Vercel",
+      "DigitalOcean",
+      "Docker",
+    ],
+  },
+  {
+    skill_category: "Design",
+    skill_icon: "",
+    skill_list: [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Sass",
+      "SQL",
+      "Shell",
+    ],
+  },
+];
