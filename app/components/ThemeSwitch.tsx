@@ -16,7 +16,9 @@ export function ThemeSwitch() {
       the current theme is: {theme}
       <div>
         <button onClick={() => setTheme("light")}>Light</button>
-        <button onClick={() => setTheme("dark")}>Dark</button>
+        <button onClick={() => setTheme("dark")} className="text-primary">
+          Dark
+        </button>
       </div>
     </>
   );
