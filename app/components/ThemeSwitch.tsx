@@ -19,7 +19,7 @@ export function ThemeSwitch() {
   return (
     <div className="flex gap-2">
       <button
-        className="p-2 rounded-lg hover:bg-slate-300/50 dark:hover:bg-slate-300/20"
+        className="p-2 rounded-lg hover:bg-slate-300/50 dark:hover:bg-slate-300/20 lg:cursor-pointer"
         onClick={() => setTheme("light")}
       >
         <MdOutlineLightMode
@@ -28,7 +28,7 @@ export function ThemeSwitch() {
         />
       </button>
       <button
-        className="p-2 rounded-lg hover:bg-slate-300/50 dark:hover:bg-slate-300/20"
+        className="p-2 rounded-lg hover:bg-slate-300/50 dark:hover:bg-slate-300/20 lg:cursor-pointer"
         onClick={() => setTheme("system")}
       >
         <MdOutlineDesktopMac
@@ -37,7 +37,7 @@ export function ThemeSwitch() {
         />
       </button>
       <button
-        className="p-2 rounded-lg hover:bg-slate-300/50 dark:hover:bg-slate-300/20"
+        className="p-2 rounded-lg hover:bg-slate-300/50 dark:hover:bg-slate-300/20 lg:cursor-pointer"
         onClick={() => setTheme("dark")}
       >
         <MdOutlineDarkMode
