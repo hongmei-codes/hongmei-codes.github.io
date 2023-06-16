@@ -1,4 +1,5 @@
 import { ThemeSwitch } from "./ThemeSwitch";
+import Socials from "./Socials";
 
 export default function Header() {
   return (
@@ -12,6 +13,7 @@ export default function Header() {
           I like to build apps that live on the web
         </p>
       </div>
+      <Socials />
     </header>
   );
 }
