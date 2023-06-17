@@ -23,7 +23,7 @@ export function ThemeSwitch() {
         onClick={() => setTheme("light")}
       >
         <MdOutlineLightMode
-          size={24}
+          size={22}
           className={theme === "light" ? "text-primary" : "text-slate-400"}
         />
       </button>
@@ -32,7 +32,7 @@ export function ThemeSwitch() {
         onClick={() => setTheme("system")}
       >
         <MdOutlineDesktopMac
-          size={24}
+          size={22}
           className={theme === "system" ? "text-primary" : "text-slate-400"}
         />
       </button>
@@ -41,7 +41,7 @@ export function ThemeSwitch() {
         onClick={() => setTheme("dark")}
       >
         <MdOutlineDarkMode
-          size={24}
+          size={22}
           className={theme === "dark" ? "text-primary" : "text-slate-400"}
         />
       </button>

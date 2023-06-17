@@ -9,28 +9,28 @@ export default function Socials() {
         target="_blank"
         className="p-2 rounded-lg hover:bg-primary/5 dark:hover:bg-primary/10 lg:cursor-pointer hover:text-primary"
       >
-        <FaGithub size={28} />
+        <FaGithub size={24} />
       </a>
       <a
-        href="https://codepen.io/hongmei/pens/popular"
+        href="https://codepen.io/hongmei/pens/public"
         target="_blank"
         className="p-2 rounded-lg hover:bg-primary/5 dark:hover:bg-primary/10 lg:cursor-pointer hover:text-primary"
       >
-        <FaCodepen size={28} />
+        <FaCodepen size={24} />
       </a>
       <a
         href="https://www.figma.com/@hongmei"
         target="_blank"
         className="p-2 rounded-lg hover:bg-primary/5 dark:hover:bg-primary/10 lg:cursor-pointer hover:text-primary"
       >
-        <FaFigma size={28} />
+        <FaFigma size={24} />
       </a>
       <a
         href="mailto:duhongmei@pm.me"
         target="_blank"
         className="p-2 rounded-lg hover:bg-primary/5 dark:hover:bg-primary/10 lg:cursor-pointer hover:text-primary"
       >
-        <MdEmail size={28} />
+        <MdEmail size={24} />
       </a>
     </div>
   );

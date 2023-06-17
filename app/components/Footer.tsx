@@ -2,7 +2,15 @@ export default function Footer() {
   return (
     <footer>
       <p className="max-w-md text-slate-400 dark:text-slate-500 text-xs font-light">
-        This site is prototyped using{" "}
+        This site is deployed with{" "}
+        <a
+          href="https://vercel.com/"
+          target="_blank"
+          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary"
+        >
+          Vercel
+        </a>
+        , prototyped using{" "}
         <a
           href="https://www.figma.com/"
           target="_blank"
@@ -26,15 +34,15 @@ export default function Footer() {
         >
           Tailwind CSS
         </a>
-        , and heavily influenced by the works of{" "}
+        , and heavily influenced by{" "}
         <a
           href="https://github.com/bchiang7"
           target="_blank"
           className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary"
         >
-          Brittany Chiang
-        </a>
-        !
+          Brittany's
+        </a>{" "}
+        work!
       </p>
     </footer>
   );
