@@ -6,7 +6,7 @@ export default function Footer() {
         <a
           href="https://vercel.com/"
           target="_blank"
-          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary"
+          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary dark:hover:text-primary"
         >
           Vercel
         </a>
@@ -14,7 +14,7 @@ export default function Footer() {
         <a
           href="https://www.figma.com/"
           target="_blank"
-          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary"
+          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary dark:hover:text-primary"
         >
           Figma
         </a>
@@ -22,7 +22,7 @@ export default function Footer() {
         <a
           href="https://nextjs.org/"
           target="_blank"
-          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary"
+          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary dark:hover:text-primary"
         >
           Next.js
         </a>{" "}
@@ -30,7 +30,7 @@ export default function Footer() {
         <a
           href="https://tailwindcss.com/"
           target="_blank"
-          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary"
+          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary dark:hover:text-primary"
         >
           Tailwind CSS
         </a>
@@ -38,7 +38,7 @@ export default function Footer() {
         <a
           href="https://github.com/bchiang7"
           target="_blank"
-          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary"
+          className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary dark:hover:text-primary"
         >
           Brittany's
         </a>{" "}
