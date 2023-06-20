@@ -1,8 +1,10 @@
-export default [
+import skillType from "../types/skills";
+
+const skills: skillType[] = [
   {
-    skill_category: "Programming",
-    skill_icon: "",
-    skill_list: [
+    category: "Programming",
+    iconURL: "",
+    list: [
       "Python",
       "JavaScript",
       "TypeScript",
@@ -14,9 +16,9 @@ export default [
     ],
   },
   {
-    skill_category: "Libraries",
-    skill_icon: "",
-    skill_list: [
+    category: "Libraries",
+    iconURL: "",
+    list: [
       "React.js",
       "Next.js",
       "Vue.js",
@@ -28,9 +30,9 @@ export default [
     ],
   },
   {
-    skill_category: "Tools",
-    skill_icon: "",
-    skill_list: [
+    category: "Tools",
+    iconURL: "",
+    list: [
       "Bash/Zsh",
       "Git and Github",
       "Postman",
@@ -41,9 +43,9 @@ export default [
     ],
   },
   {
-    skill_category: "Design",
-    skill_icon: "",
-    skill_list: [
+    category: "Design",
+    iconURL: "",
+    list: [
       "Python",
       "JavaScript",
       "TypeScript",
@@ -55,3 +57,5 @@ export default [
     ],
   },
 ];
+
+export default skills;

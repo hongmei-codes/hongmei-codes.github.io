@@ -1,5 +1,5 @@
-import { ThemeSwitch } from "./ThemeSwitch";
-import Socials from "./Socials";
+import { ThemeSwitch } from "./themeSwitch";
+import Socials from "./socials";
 
 export default function Header() {
   return (

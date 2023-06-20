@@ -1,6 +1,6 @@
-import experience from "./experience";
-import skill from "./skill";
-import project from "./project";
-import certification from "./certification";
+import experiences from "./experiences";
+import skills from "./skills";
+import projects from "./project";
+import certifications from "./certification";
 
-export { experience, skill, project, certification };
+export { experiences, skills, projects, certifications };

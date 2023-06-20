@@ -1,18 +1,22 @@
-export default [
+import certificationType from "../types/certification";
+
+const certifications: certificationType[] = [
   {
     name: "Certified Application Associate",
-    image_location: "",
-    end_time: {
+    imageLocation: "",
+    timeAttained: {
       month: "May",
       year: 2019,
     },
   },
   {
     name: "Associate Reactive Developer",
-    image_location: "",
-    end_time: {
+    imageLocation: "",
+    timeAttained: {
       month: "Apr",
       year: 2022,
     },
   },
 ];
+
+export default certifications;

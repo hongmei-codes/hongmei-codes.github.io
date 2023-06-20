@@ -1,7 +1,9 @@
-export default [
+import projectType from "../types/project";
+
+const projects: projectType[] = [
   {
     name: "Portfolio Site",
-    icon: "",
+    imagePath: "",
     links: {
       github: "https://github.com/hongmei-codes/hongmei-codes.github.io",
       design: "",
@@ -13,7 +15,7 @@ export default [
   },
   {
     name: "Money I/O",
-    icon: "",
+    imagePath: "",
     links: {
       github: "https://github.com/hongmei-codes/money_io",
       design: "",
@@ -24,3 +26,5 @@ export default [
     tech_stack: ["react", "html", "css", "javascript"],
   },
 ];
+
+export default projects;
