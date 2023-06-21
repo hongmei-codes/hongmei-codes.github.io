@@ -1,5 +1,11 @@
-import Intro from "./Intro";
+import Intro from "./intro";
+import Experiences from "./experiences";
 
 export default function Content() {
-  return <Intro />;
+  return (
+    <>
+      <Intro />
+      <Experiences />
+    </>
+  );
 }
