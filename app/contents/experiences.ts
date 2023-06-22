@@ -18,7 +18,7 @@ const expriences: experienceType[] = [
       year: 0,
     },
     summary:
-      "Design adaptable product, build web application, style user interface, and deploy custom SaaS solutions for clients all over the world. Clients include small and midsize enterprises, non-profit organizations and multinational corporation. Other significant contributions include building automated payment and accounting system, creating consistent design system, and more.",
+      "Craft adaptable product, build web application, style user interface, and deploy trailored SaaS offerings for a global clientele including small and midsize enterprises, non-profit organizations, and multinational corporation. Other significant contributions include architecting automated payment and accounting system, creating consistent design system, and more.",
     techSkills: ["HTML", "CSS", "JavaScript", "SQL", "Python"],
   },
   {
@@ -38,7 +38,7 @@ const expriences: experienceType[] = [
       year: 2021,
     },
     summary:
-      "Communicate with clients, engineers, designers, and other stakeholders to deliver SaaS solutions. Maintained and cleaned up code base to improve web application performance. Made many helpful internal contributions like writing clear technical documentation, setting up end-to-end testing, and improving developer experience.",
+      "Communicate with clients, engineers, designers, and other stakeholders to deliver SaaS solutions. Maintained and cleaned up codebase to improve web application performance. Made many helpful internal contributions like writing clear technical documentation, setting up end-to-end testing, and improving developer experience.",
     techSkills: ["Vue.js", "Sass", "Python", "Flask", "Shell", "Docker"],
   },
 ];
