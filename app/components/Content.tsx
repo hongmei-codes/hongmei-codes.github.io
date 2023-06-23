@@ -1,10 +1,10 @@
-import Intro from "./intro";
+import About from "./about";
 import Experiences from "./experiences";
 
 export default function Content() {
   return (
     <>
-      <Intro />
+      <About />
       <Experiences />
     </>
   );
