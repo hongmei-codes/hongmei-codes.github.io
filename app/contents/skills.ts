@@ -1,9 +1,8 @@
-import skillType from "../types/skills";
+import skillType from "../types/skill";
 
 const skills: skillType[] = [
   {
     category: "Programming",
-    iconURL: "",
     list: [
       "Python",
       "JavaScript",
@@ -17,7 +16,6 @@ const skills: skillType[] = [
   },
   {
     category: "Libraries",
-    iconURL: "",
     list: [
       "React.js",
       "Next.js",
@@ -31,7 +29,6 @@ const skills: skillType[] = [
   },
   {
     category: "Tools",
-    iconURL: "",
     list: [
       "Bash/Zsh",
       "Git and Github",
@@ -44,17 +41,7 @@ const skills: skillType[] = [
   },
   {
     category: "Design",
-    iconURL: "",
-    list: [
-      "Python",
-      "JavaScript",
-      "TypeScript",
-      "HTML",
-      "CSS",
-      "Sass",
-      "SQL",
-      "Shell",
-    ],
+    list: ["Figma", "Sketch", "Adobe XD", "Photoshop", "After Effects"],
   },
 ];
 
