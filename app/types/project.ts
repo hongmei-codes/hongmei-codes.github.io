@@ -3,7 +3,7 @@ export default interface projectType {
   imagePath: string;
   links: projectLinks;
   description: string;
-  tech_stack: string[];
+  techStack: string[];
 }
 
 interface projectLinks {

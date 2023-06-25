@@ -1,6 +1,7 @@
 import About from "./about";
 import Experiences from "./experiences";
 import Skills from "./skills";
+import Projects from "./projects";
 
 export default function Content() {
   return (
@@ -8,6 +9,7 @@ export default function Content() {
       <About />
       <Experiences />
       <Skills />
+      <Projects />
     </>
   );
 }
