@@ -16,8 +16,9 @@ export default function About() {
         back when we were using Internet Explorer.{" "}
       </p>
       <p className="mb-4">
-        Currently, I work with start-ups trying to make a positive impact in the
-        world. I’ve had the pleasure of contributing to meaningful missions like{" "}
+        Currently, I work with start-ups striving to make a positive impact in
+        the world. I’ve had the pleasure of contributing to meaningful missions
+        like{" "}
         <a
           href="https://www.stemly.ai/"
           target="_blank"

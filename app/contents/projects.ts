@@ -11,7 +11,7 @@ const projects: projectType[] = [
     },
     description:
       "This site. I document details about my work and projects here. Deployed with Vercel.",
-    techStack: ["nextjs", "tailwind", "typescript"],
+    techStack: ["Next.js", "Tailwind", "TypeScript"],
   },
   {
     name: "Money I/O",
@@ -23,7 +23,7 @@ const projects: projectType[] = [
     },
     description:
       "The first ever react web application I built and deployed. It’s simple income and expense tracker.",
-    techStack: ["react", "html", "css", "javascript"],
+    techStack: ["React.js", "HTML", "CSS", "JavaScript"],
   },
 ];
 

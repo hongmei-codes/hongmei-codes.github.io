@@ -27,7 +27,7 @@ export default function Experience({ experience }: Props) {
             </a>
           </p>
           <div className="text-xs">{experience.summary}</div>
-          <div className="flex gap-2 mt-4">
+          <div className="flex gap-2 flex-wrap mt-4">
             {experience.techSkills.map((skill, i) => (
               <div
                 className="text-primary bg-primary/10 dark:bg-primary/15 py-0.5 px-2 font-mono text-[10px] rounded-full"
