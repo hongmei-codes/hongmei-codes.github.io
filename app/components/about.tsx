@@ -13,7 +13,10 @@ export default function About() {
         >
           JavaScript
         </a>{" "}
-        back when we were using Internet Explorer.{" "}
+        back when we were using{" "}
+        <span className="font-medium dark:text-slate-200 text-slate-600 hover:text-primary dark:hover:text-primary lg:cursor-[url('/ie.png')_15_15,_pointer]">
+          Internet Explorer.
+        </span>{" "}
       </p>
       <p className="mb-4">
         Currently, I work with start-ups striving to make a positive impact in
