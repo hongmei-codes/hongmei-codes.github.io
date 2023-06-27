@@ -6,7 +6,8 @@ const projects: projectType[] = [
     imagePath: "",
     links: {
       github: "https://github.com/hongmei-codes/hongmei-codes.github.io",
-      design: "",
+      design:
+        "https://www.figma.com/community/file/1371512171219851956/hongmei-codes-github-io",
       demo: "",
     },
     description:

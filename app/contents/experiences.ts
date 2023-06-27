@@ -30,7 +30,7 @@ const expriences: experienceType[] = [
     },
     startTime: {
       month: "Sep",
-      year: 2022,
+      year: 2020,
     },
     endTime: {
       ongoing: false,
