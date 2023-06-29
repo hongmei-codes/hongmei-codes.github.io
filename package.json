@@ -1,5 +1,8 @@
 {
   "name": "hongmei-codes",
+  "author": {
+    "name": "hongmei"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {

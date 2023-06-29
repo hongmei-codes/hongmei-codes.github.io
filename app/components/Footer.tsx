@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      <p className="max-w-md text-slate-400 dark:text-slate-500 text-xs font-light">
+      <p className="max-w-md text-slate-400 dark:text-slate-500 text-[11px] font-light">
         This site is deployed with{" "}
         <a
           href="https://vercel.com/"

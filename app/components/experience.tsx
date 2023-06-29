@@ -26,7 +26,7 @@ export default function Experience({ experience }: Props) {
               {`@${experience.organization.name}`}
             </a>
           </p>
-          <div className="text-xs">{experience.summary}</div>
+          <div className="text-sm">{experience.summary}</div>
           <div className="flex gap-2 flex-wrap mt-4">
             {experience.techSkills.map((skill, i) => (
               <div
