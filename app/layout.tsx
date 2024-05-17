@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "hongmei",
   description:
-    "hongmei is software engineer working with start-ups striving to make a positive impact in the world.",
+    "hongmei is fullstack developer working with start-ups striving to make a positive impact in the world.",
   creator: "hongmei",
   manifest: "/manifest.json",
   appleWebApp: {
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "hongmei",
     description:
-      "hongmei is software engineer working with start-ups striving to make a positive impact in the world.",
+      "hongmei is fullstack developer working with start-ups striving to make a positive impact in the world.",
     url: "https://hongmei.codes",
     siteName: "hongmei",
     images: [
