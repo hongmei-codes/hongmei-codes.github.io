@@ -40,7 +40,7 @@ export default function Footer() {
           target="_blank"
           className="text-slate-500 dark:text-slate-400 font-medium hover:text-primary dark:hover:text-primary"
         >
-          Brittany's
+          Brittany&apos;s
         </a>{" "}
         work!
       </p>
